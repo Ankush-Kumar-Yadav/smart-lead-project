@@ -126,12 +126,4 @@ This project demonstrates:
 - Idempotent task processing  
 - Clean scalable architecture  
 
----
-
-If you want, I can also:
-
-✅ Generate a PDF version  
-✅ Generate a DOCX version  
-✅ ZIP the README (once the tool unlocks)  
-
-Just tell me **what exact format you want next**.
+ 
